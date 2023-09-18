@@ -1,4 +1,4 @@
-### Hi there 👋 I was born in Ankara in 2005. I graduated from Tevfik Fikret Highschool. My well known foreign languages are French and English. I have many areas of interest but my main hobbies are playing video games and hanging out with my friends. Currently, I am a freshman in Computer Science Department in Bilkent University.
+### Hi there 👋 I was born in Ankara in 2005. I graduated from Tevfik Fikret Highschool. I speak advanced French and English. I have many areas of interest and I am familiar with electronics and especially computers since I was a child. Currently, I am a freshman in Computer Science Department in Bilkent University.
 
 <!--
 **canyildirimcs/canyildirimcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
